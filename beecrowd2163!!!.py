@@ -1,3 +1,6 @@
+# Infelizmante dá time limit exceeded, porém, a lógica é interessante e explora
+# conceitos legais do python, mesmo que sejam um pouco complicados
+
 n, m = [int(x) for x in input().split()]
 terreno = []
 linhas, colunas = [], []
