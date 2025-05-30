@@ -24,7 +24,7 @@ while True:
             pular = ''
             for j in range(n):
                 pular += f"{matriz[i][j]}"
-            print(pular[1:])
+            print(pular[:])
         print()
 
     except EOFError:
