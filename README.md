@@ -1,4 +1,4 @@
-Codigos do beecrowd em Python (com listas de exercícios da disciplina Porgramação 1 - UPE)
+Códigos do beecrowd em Python (com listas de exercícios da disciplina Programação 1 - UPE)
 
 Notas:
 
