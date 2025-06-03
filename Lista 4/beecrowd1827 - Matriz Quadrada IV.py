@@ -21,10 +21,10 @@ while True:
         matriz[int(n/2)][int(n/2)] = 4
 
         for i in range(n):
-            pular = ''
+            matriz_txt = ''
             for j in range(n):
-                pular += f"{matriz[i][j]}"
-            print(pular[:])
+                matriz_txt += f"{matriz[i][j]}"
+            print(matriz_txt)
         print()
 
     except EOFError:
